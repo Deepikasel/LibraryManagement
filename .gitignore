@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.class
+
+# Ignore MySQL jar (large file)
+lib/
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
