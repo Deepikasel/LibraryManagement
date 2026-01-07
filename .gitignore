@@ -3,7 +3,7 @@
 
 # Ignore MySQL jar (large file)
 lib/
-
+DBConnection.java
 # Ignore IDE files
 .idea/
 .vscode/
